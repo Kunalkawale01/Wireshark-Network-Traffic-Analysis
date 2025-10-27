@@ -1,6 +1,6 @@
 ## Author
 **Kunal Kawale**  
-Cybersecurity Trainee | SOC Project  
+Cybersecurity Trainee 
 📅 Date: October 27, 2025
 
 # Wireshark-Network-Traffic-Analysis
